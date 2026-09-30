@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500"
+     height="642"
+     viewBox="43 38 300 77">
+  <g fill="#999999">
+    <!-- Emblem -->
+    <path fill-rule="evenodd"
+          d="M73 38 98 52v28L73 94 49 80V52z
+             M73 47 57 56v19l16 10 17-10V56z"/>
+
+    <!-- Lower curved base -->
+    <path d="M43 94h60
+             c-5 13-16 20-30 21
+             -14 0-25-8-30-21z"/>
+
+    <!-- Wordmark -->
+    <text x="117" y="84"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="39"
+          font-weight="600"
+          letter-spacing="0.2">Koboweb</text>
+
+    <!-- Tagline -->
+    <text x="118" y="110"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="19"
+          font-weight="400"
+          letter-spacing="0.1">MicroFinance Bank Ltd</text>
+  </g>
+</svg>

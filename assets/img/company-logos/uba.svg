@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500"
+     height="1171"
+     viewBox="0 0 240 112"
+     fill="#999999">
+  <!-- UBA wordmark -->
+  <text x="0" y="79"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="72"
+        font-weight="700"
+        font-style="italic"
+        letter-spacing="-4.4">UBA</text>
+
+  <!-- Abstract mark -->
+  <path d="M185 14
+           C188 18 192 25 196 33
+           L207 55
+           C211 64 210 71 204 77
+           L200 79
+           L169 79
+           Z"/>
+  <path d="M201 1
+           L240 1
+           L225 65
+           L204 30
+           C199 22 199 13 201 1
+           Z"/>
+
+  <!-- Tagline -->
+  <text x="2" y="110"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="21"
+        font-weight="400"
+        letter-spacing="0.1">United Bank for Africa</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500" height="560" viewBox="0 0 268 60">
+  <g fill="none" stroke="#999999" stroke-width="5.5"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 53V11c0-5 5-8 9-5l37 30V11c0-5 5-8 9-5v43c0 5-5 8-9 5L17 23v24l8-6"/>
+  </g>
+  <text x="80" y="48" fill="#999999"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="46" font-weight="400" letter-spacing="-1.7">NerdBug</text>
+</svg>

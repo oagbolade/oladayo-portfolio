@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500" height="765"
+     viewBox="0 0 278 85">
+  <g fill="#999999">
+    <!-- Circular emblem with transparent inner detail -->
+    <path fill-rule="evenodd" d="
+      M43 0
+      A43 43 0 1 1 43 86
+      A43 43 0 1 1 43 0
+      Z
+      M57 12
+      A12.5 12.5 0 1 0 57 37
+      A12.5 12.5 0 1 0 57 12
+      Z"/>
+
+    <!-- Wordmark -->
+    <text x="99" y="63"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="39"
+          font-weight="700"
+          textLength="179"
+          lengthAdjust="spacingAndGlyphs">Sterling</text>
+  </g>
+</svg>

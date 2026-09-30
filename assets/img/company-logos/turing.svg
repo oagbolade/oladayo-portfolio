@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500" height="391" viewBox="88 77 652 102">
+  <g fill="#999999">
+    <path d="M92 96
+      C89 93 90 89 97 86
+      C111 80 137 79 163 79
+      L211 79
+      C227 79 240 80 251 81
+      C239 88 226 92 211 96
+      C192 101 171 103 150 102
+      C165 108 176 119 180 133
+      L181 177
+      C176 154 168 138 155 126
+      C142 114 125 107 106 101
+      C99 99 94 98 92 96Z"/>
+    <text x="286" y="146"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="72" font-weight="700" letter-spacing="7">TURING</text>
+  </g>
+</svg>

@@ -2279,11 +2279,6 @@ html {
   background-color: rgb(249 231 28 / var(--tw-bg-opacity, 1));
 }
 
-.group:hover .group-hover\:text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
-}
-
 .group:hover .group-hover\:text-yellow {
   --tw-text-opacity: 1;
   color: rgb(249 231 28 / var(--tw-text-opacity, 1));

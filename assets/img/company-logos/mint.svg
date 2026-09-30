@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500"
+     height="3056"
+     viewBox="322 24 216 264">
+  <g fill="#999999">
+    <!-- Angular mark -->
+    <path d="M434 24h42l62 106-48 80h-40l53-80-47-82-91 162h-37l22-38z"/>
+    <path d="M448 76l16 26-64 108h-21z"/>
+
+    <!-- Baseline -->
+    <path d="M322 210h216v1H322z"/>
+
+    <!-- Wordmark -->
+    <text x="348" y="287"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="66"
+          font-weight="700"
+          letter-spacing="-2">mint</text>
+
+    <!-- Registered mark -->
+    <text x="522" y="256"
+          font-family="Georgia, 'Times New Roman', serif"
+          font-size="18"
+          font-weight="400">®</text>
+  </g>
+</svg>

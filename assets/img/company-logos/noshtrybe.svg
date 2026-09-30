@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500"
+     height="812.5"
+     viewBox="54 16 280 91">
+  <g fill="#999999">
+    <!-- Dot -->
+    <circle cx="91.5" cy="27.5" r="10"/>
+
+    <!-- Abstract icon -->
+    <path d="M67 49
+             C75 42 84 39 94 40
+             C112 41 124 55 126 72
+             L125 89
+             C120 85 113 85 107 89
+             C109 76 106 63 98 55
+             C90 48 78 46 67 51Z"/>
+    <path d="M55 78
+             C55 61 64 50 77 48
+             C91 47 102 55 106 68
+             C102 64 97 62 91 62
+             C82 62 77 68 77 78
+             L77 94
+             C73 89 69 87 65 87
+             C61 87 58 89 56 93Z"/>
+    <path d="M57 92
+             C61 86 70 85 75 91
+             C79 97 75 104 69 106
+             C62 108 56 103 56 97Z"/>
+    <path d="M106 92
+             C110 86 118 86 123 91
+             C128 97 124 104 118 106
+             C111 108 105 103 105 97Z"/>
+
+    <!-- Wordmark -->
+    <text x="143" y="82"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="39"
+          font-weight="800"
+          letter-spacing="0.1">Noshtrybe</text>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500"
+     height="1113"
+     viewBox="33 0 382 170">
+  <g fill="#999999">
+    <!-- Orange outer swoosh in the source -->
+    <path d="M122 80
+             C131 39 163 12 198 5
+             C230 -2 259 6 272 20
+             C278 27 277 39 273 49
+             C268 32 256 23 241 21
+             C208 16 180 32 166 59
+             C155 81 155 108 159 135
+             Z"/>
+
+    <!-- Purple inner swoosh in the source -->
+    <path d="M287 0
+             L322 53
+             C312 98 287 121 257 126
+             C226 131 192 124 178 112
+             C172 107 173 95 177 82
+             C181 99 197 109 216 111
+             C244 114 268 96 280 72
+             C290 51 292 24 287 0
+             Z"/>
+
+    <!-- Blue circle and monogram -->
+    <circle cx="225" cy="60" r="36"/>
+    <text x="204" y="72"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="21"
+          font-weight="700">Imb</text>
+
+    <!-- Wordmark -->
+    <text x="33" y="170"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="25"
+          font-weight="700"
+          letter-spacing="0.15">IPERU MICROFINANCE BANK LTD.</text>
+
+    <!-- Registration number -->
+    <text x="329" y="138"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="17"
+          font-weight="400">RC 163394</text>
+  </g>
+</svg>

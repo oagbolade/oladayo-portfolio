@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="2500" height="709"
+     viewBox="0 0 670 190">
+  <g fill="#999999">
+    <!-- Elephant mark; gold backing omitted -->
+    <path transform="translate(-113.04 -19.44) scale(0.72)" d="
+      M180 27
+      L219 33 L228 29 L251 29
+      Q268 39 281 60 L281 68
+      Q294 82 297 96 L297 109
+      Q309 115 322 115 H343
+      Q352 115 347 123 Q337 129 319 129
+      L303 128 L291 183 Q287 193 294 196
+      L303 196 L302 212 Q284 217 275 207
+      Q270 202 272 188 L278 130
+      Q263 125 250 115 Q244 112 239 119
+      L238 135 L254 162 L254 198 L247 215
+      H222 L240 202 L218 187 L211 208 L214 215
+      H185 L183 204 L193 202 L208 171 L184 151
+      L163 162 L157 161 L170 91 Q160 75 164 57
+      L168 39 Q171 26 180 27 Z
+      M232 69 L251 66 L242 57 Z
+      M250 91 Q238 86 228 96 L218 108
+      Q230 117 247 115 L268 107 Q264 99 250 91 Z"/>
+
+    <text x="213" y="110"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="76" font-weight="900"
+      textLength="442" lengthAdjust="spacingAndGlyphs">FirstBank</text>
+
+    <text x="346" y="151"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="36" font-style="italic"
+      textLength="176" lengthAdjust="spacingAndGlyphs">Since 1894</text>
+  </g>
+</svg>
